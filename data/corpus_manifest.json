@@ -1,0 +1,252 @@
+[
+ {
+  "id": "2608.02343v1",
+  "title": "Hard Constraints, Smooth Gradients: Learning Feasible Inventory Policies via Differentiable Projection",
+  "chunks_in_committed_index": 240
+ },
+ {
+  "id": "2608.02352v1",
+  "title": "Qwen-CUA: Native Computer Use for (almost) Everything",
+  "chunks_in_committed_index": 195
+ },
+ {
+  "id": "2608.02391v1",
+  "title": "Cooperative Coevolution for Resource-Constrained Agentic LLM Post-Training",
+  "chunks_in_committed_index": 134
+ },
+ {
+  "id": "2608.02433v1",
+  "title": "Foundations of Reinforcement Learning and Control:Connections and New Perspectives",
+  "chunks_in_committed_index": 206
+ },
+ {
+  "id": "2608.02508v2",
+  "title": "RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States",
+  "chunks_in_committed_index": 164
+ },
+ {
+  "id": "2608.02519v1",
+  "title": "Analytic Planning under Uncertainty with Moment Closure",
+  "chunks_in_committed_index": 109
+ },
+ {
+  "id": "2608.02826v1",
+  "title": "Improved Quantum Algorithms for Reinforcement Learning Under a Generative Model",
+  "chunks_in_committed_index": 144
+ },
+ {
+  "id": "2608.02948v1",
+  "title": "Rubrics as Privileged Information for Open-Ended Generation",
+  "chunks_in_committed_index": 129
+ },
+ {
+  "id": "2608.02951v1",
+  "title": "SP3O: Reinforcement Learning from Segment Preferences without Reward Modeling",
+  "chunks_in_committed_index": 141
+ },
+ {
+  "id": "2608.03036v1",
+  "title": "LLM Serving in the Wild: An Empirical Study of Frameworks, Methods, and System Designs",
+  "chunks_in_committed_index": 365
+ },
+ {
+  "id": "2608.03041v1",
+  "title": "PLAN: Parallel Liquid-Inspired Approximation Network for Efficient Representation Learning in Flexible Job Shop Scheduling",
+  "chunks_in_committed_index": 116
+ },
+ {
+  "id": "2608.03068v1",
+  "title": "CVPO: Enhancing LLM Reinforcement Learning Reasoning via Value-Variance Adaptation and Dynamic Curriculum Learning",
+  "chunks_in_committed_index": 86
+ },
+ {
+  "id": "2608.03092v1",
+  "title": "SMOPD: Multi-Reward Reinforcement Learning via Specialize-and-Merge Online Policy Distillation",
+  "chunks_in_committed_index": 165
+ },
+ {
+  "id": "2608.03108v1",
+  "title": "Convex-Hull-Neighborhood Smooth Dual Generalization: Controlling Local Correction Propagation in Offline RL",
+  "chunks_in_committed_index": 140
+ },
+ {
+  "id": "2608.03223v1",
+  "title": "Agentic Reinforcement Learning with Self-Distilled Reward Shaping",
+  "chunks_in_committed_index": 164
+ },
+ {
+  "id": "2608.03391v1",
+  "title": "TimeRLM: Recursive Language Models Enable Precise Anomaly Localization in Long-Context Time-Series",
+  "chunks_in_committed_index": 190
+ },
+ {
+  "id": "2608.03467v2",
+  "title": "When Correct Solutions Repeat: Rarity-Aware Credit Redistribution for GRPO",
+  "chunks_in_committed_index": 136
+ },
+ {
+  "id": "2608.03483v1",
+  "title": "Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution",
+  "chunks_in_committed_index": 133
+ },
+ {
+  "id": "2608.03502v1",
+  "title": "Hybrid LLM-Augmented Reinforcement Learning Agents for Complex Sequential Decision Tasks",
+  "chunks_in_committed_index": 55
+ },
+ {
+  "id": "2608.03562v1",
+  "title": "Robust General Utility for Reinforcement Learning",
+  "chunks_in_committed_index": 259
+ },
+ {
+  "id": "2608.03573v2",
+  "title": "SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs",
+  "chunks_in_committed_index": 314
+ },
+ {
+  "id": "2608.03606v1",
+  "title": "Learning Clinical-Trial Strategy: Offline Policy Training for Decision Agents",
+  "chunks_in_committed_index": 126
+ },
+ {
+  "id": "2608.03673v1",
+  "title": "CausalOPD: First-Wrong-Step Supervision for Distilling Causal Chain Reasoning",
+  "chunks_in_committed_index": 102
+ },
+ {
+  "id": "2608.03674v1",
+  "title": "DiagLoop: A Counterfactual Data Flywheel with Stage-Localized Reinforcement for Diagnostic LLMs",
+  "chunks_in_committed_index": 107
+ },
+ {
+  "id": "2608.03852v1",
+  "title": "FedCritic-MIMO: Communication-Efficient Serverless Federated Critic Learning for Massive-MIMO Resource Control in Open and Disaggregated 6G RANs",
+  "chunks_in_committed_index": 166
+ },
+ {
+  "id": "2608.03875v1",
+  "title": "Enhancing VLM Reward Models Through Structure-Aware Fine-Tuning",
+  "chunks_in_committed_index": 144
+ },
+ {
+  "id": "2608.03929v2",
+  "title": "Latent Reward Registers for Diffusion Preference Alignment",
+  "chunks_in_committed_index": 142
+ },
+ {
+  "id": "2608.04317v1",
+  "title": "Trident : How to Break Deep Reinforcement Learning Cyber Defenses (Agentic)",
+  "chunks_in_committed_index": 198
+ },
+ {
+  "id": "2608.04334v1",
+  "title": "ATLAS: Adaptive Topological Learning with Abstract Successors for Continual Learning",
+  "chunks_in_committed_index": 91
+ },
+ {
+  "id": "2608.04421v1",
+  "title": "Generative Optimization for Incentivized Advertising with Global Level Constraints",
+  "chunks_in_committed_index": 153
+ },
+ {
+  "id": "2608.04788v1",
+  "title": "Agentic Reinforcement Learning with Observation-Calibrated Self-Distillation",
+  "chunks_in_committed_index": 156
+ },
+ {
+  "id": "2608.04794v1",
+  "title": "Privileged, but Biased: How PI-Conditioned Teachers Break Self-Distillation",
+  "chunks_in_committed_index": 154
+ },
+ {
+  "id": "2608.04934v1",
+  "title": "State2State: Environment-Derived Mid-Training for LLM Agents",
+  "chunks_in_committed_index": 177
+ },
+ {
+  "id": "2608.04962v1",
+  "title": "SpecRoll: Fast-Slow Verifier-Feedback Adaptation for Speculative Reinforcement Learning Rollouts",
+  "chunks_in_committed_index": 178
+ },
+ {
+  "id": "2608.04964v1",
+  "title": "WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models",
+  "chunks_in_committed_index": 144
+ },
+ {
+  "id": "2608.05080v1",
+  "title": "Optimizing What Policies Learn From: Recoverability-aware Rollout Intervention Learning",
+  "chunks_in_committed_index": 260
+ },
+ {
+  "id": "2608.05111v1",
+  "title": "Reward Structure Shapes the Interaction Between Episodic Exploration and Neural Memory in Reinforcement Learning",
+  "chunks_in_committed_index": 282
+ },
+ {
+  "id": "2608.05255v1",
+  "title": "An Emerging Retail Portfolio Management Application: Personalized, Tax-Aware Reinforcement Learning with Natural Language Goals",
+  "chunks_in_committed_index": 89
+ },
+ {
+  "id": "2608.05422v1",
+  "title": "IFlowNets: Extending Generative Samplers to Learn Strategies in Incomplete Information Games",
+  "chunks_in_committed_index": 79
+ },
+ {
+  "id": "2608.05600v1",
+  "title": "LC-GRPO: Bridging Train-Inference Gap for Flow-Based GRPO with Langevin Correction",
+  "chunks_in_committed_index": 127
+ },
+ {
+  "id": "2608.05802v1",
+  "title": "On-Policy Delta Distillation for Multilingual Math Reasoning",
+  "chunks_in_committed_index": 63
+ },
+ {
+  "id": "2608.05949v1",
+  "title": "VLMs for Videogame Data Annotation",
+  "chunks_in_committed_index": 55
+ },
+ {
+  "id": "2608.05954v1",
+  "title": "Training a Conditioned Video Game Agent on a VLM Annotated Dataset",
+  "chunks_in_committed_index": 49
+ },
+ {
+  "id": "2608.05987v1",
+  "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
+  "chunks_in_committed_index": 146
+ },
+ {
+  "id": "2608.05989v1",
+  "title": "Observation-Grounded Self-Predictive Reinforcement Learning for Visual Continuous Control",
+  "chunks_in_committed_index": 163
+ },
+ {
+  "id": "2608.06015v1",
+  "title": "ProDVI: Programmatic Dynamics Priors for Value Network Initialization",
+  "chunks_in_committed_index": 187
+ },
+ {
+  "id": "2608.06025v1",
+  "title": "Hybrid-Adaptive Thread Tuning to Mitigate Simulation Execution Bottlenecks in High-Performance Reinforcement Learning Inference",
+  "chunks_in_committed_index": 87
+ },
+ {
+  "id": "2608.06105v1",
+  "title": "Does Latent Context Help? A Controlled Evaluation of Inverse Reinforcement Learning in Arctic Shipping",
+  "chunks_in_committed_index": 155
+ },
+ {
+  "id": "2608.06276v1",
+  "title": "Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning",
+  "chunks_in_committed_index": 173
+ },
+ {
+  "id": "2608.06310v1",
+  "title": "RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction",
+  "chunks_in_committed_index": 241
+ }
+]

@@ -1,0 +1,9 @@
+# Only what the tests need. No torch, no transformers, no model downloads.
+pypdf
+fonttools
+langchain-core
+langchain-community
+langchain-text-splitters
+faiss-cpu
+numpy
+pytest
